@@ -5,19 +5,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/blog.iscccc.eu.org.ico",
     "slug": "",
     "status": "up",
-    "uptime": "3.94%",
-    "uptimeDay": "3.94%",
-    "uptimeWeek": "3.94%",
-    "uptimeMonth": "3.94%",
-    "uptimeYear": "3.94%",
-    "time": 327,
-    "timeDay": 327,
-    "timeWeek": 327,
-    "timeMonth": 327,
-    "timeYear": 327,
-    "dailyMinutesDown": {
-      "2022-12-10": 3
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 367,
+    "timeDay": 367,
+    "timeWeek": 367,
+    "timeMonth": 367,
+    "timeYear": 367,
+    "dailyMinutesDown": {}
   },
   {
     "name": "我的博客（备用）",
@@ -25,19 +23,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/b.iscccc.eu.org.ico",
     "slug": "",
     "status": "up",
-    "uptime": "4.18%",
-    "uptimeDay": "4.18%",
-    "uptimeWeek": "4.18%",
-    "uptimeMonth": "4.18%",
-    "uptimeYear": "4.18%",
-    "time": 327,
-    "timeDay": 327,
-    "timeWeek": 327,
-    "timeMonth": 327,
-    "timeYear": 327,
-    "dailyMinutesDown": {
-      "2022-12-10": 3
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 367,
+    "timeDay": 367,
+    "timeWeek": 367,
+    "timeMonth": 367,
+    "timeYear": 367,
+    "dailyMinutesDown": {}
   },
   {
     "name": "我的 OneDrive",
@@ -45,19 +41,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/drive.iscccc.eu.org.ico",
     "slug": "one-drive",
     "status": "down",
-    "uptime": "3.04%",
-    "uptimeDay": "3.04%",
-    "uptimeWeek": "3.04%",
-    "uptimeMonth": "3.04%",
-    "uptimeYear": "3.04%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
-    "dailyMinutesDown": {
-      "2022-12-10": 3
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "欧陆风云4百科",
