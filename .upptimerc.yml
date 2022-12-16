@@ -11,6 +11,8 @@ sites:
     url: https://drive.iscccc.eu.org
   - name: 欧陆风云4百科
     url: https://www.eu4cn.com
+  - name: FastGit
+    url: https://download.fastgit.org/
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
