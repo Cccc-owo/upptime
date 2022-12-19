@@ -13,6 +13,10 @@ sites:
     url: https://www.eu4cn.com
   - name: FastGit
     url: https://download.fastgit.org/
+  - name: ParaTranz
+    url: https://paratranz.cn/
+  - name: 52pcgame
+    url: http://52pcgame.net/
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
