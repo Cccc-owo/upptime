@@ -58,9 +58,9 @@
     "url": "https://www.eu4cn.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.eu4cn.com.ico",
     "slug": "eu4cn",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -69,7 +69,9 @@
     "timeWeek": 1881,
     "timeMonth": 1881,
     "timeYear": 1881,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-12-20": 0
+    }
   },
   {
     "name": "FastGit",
