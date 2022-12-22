@@ -96,19 +96,19 @@
     "url": "https://paratranz.cn/",
     "icon": "https://icons.duckduckgo.com/ip3/paratranz.cn.ico",
     "slug": "para-tranz",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 862,
-    "timeDay": 683,
-    "timeWeek": 862,
-    "timeMonth": 862,
-    "timeYear": 862,
+    "status": "up",
+    "uptime": "99.44%",
+    "uptimeDay": "98.44%",
+    "uptimeWeek": "99.44%",
+    "uptimeMonth": "99.44%",
+    "uptimeYear": "99.44%",
+    "time": 886,
+    "timeDay": 832,
+    "timeWeek": 886,
+    "timeMonth": 886,
+    "timeYear": 886,
     "dailyMinutesDown": {
-      "2022-12-22": 0
+      "2022-12-22": 22
     }
   },
   {
