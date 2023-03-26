@@ -59,14 +59,14 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.eu4cn.com.ico",
     "slug": "eu4cn",
     "status": "up",
-    "uptime": "85.85%",
+    "uptime": "85.90%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "92.69%",
+    "uptimeWeek": "97.24%",
     "uptimeMonth": "94.11%",
-    "uptimeYear": "85.85%",
+    "uptimeYear": "85.90%",
     "time": 1905,
     "timeDay": 1840,
-    "timeWeek": 1755,
+    "timeWeek": 1750,
     "timeMonth": 1903,
     "timeYear": 1905,
     "dailyMinutesDown": {
@@ -119,9 +119,9 @@
     "url": "https://download.fastgit.org/",
     "icon": "https://icons.duckduckgo.com/ip3/download.fastgit.org.ico",
     "slug": "fast-git",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -130,7 +130,9 @@
     "timeWeek": 564,
     "timeMonth": 543,
     "timeYear": 583,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-03-26": 0
+    }
   },
   {
     "name": "ParaTranz",
