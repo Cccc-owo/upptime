@@ -5,8 +5,6 @@ repo: upptime # The name of this repository
 sites:
   - name: 我的博客 -My Blog
     url: https://blog.iscccc.eu.org
-  - name: 我的博客（备用）-My Blog-1
-    url: https://b.iscccc.eu.org
   - name: 我的 OneDrive
     url: https://drive.iscccc.eu.org
   - name: 欧陆风云四百科（eu4cn）
