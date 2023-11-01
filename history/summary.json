@@ -177,7 +177,7 @@
     "timeMonth": 0,
     "timeYear": 604,
     "dailyMinutesDown": {
-      "2023-11-01": 780,
+      "2023-11-01": 802,
       "2023-10-31": 1440,
       "2023-10-30": 1440,
       "2023-10-29": 1440,
@@ -330,19 +330,19 @@
     "url": "http://52pcgame.net/",
     "icon": "https://icons.duckduckgo.com/ip3/52pcgame.net.ico",
     "slug": "52pcgame",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.52%",
+    "uptimeWeek": "99.79%",
+    "uptimeMonth": "99.95%",
     "uptimeYear": "100.00%",
     "time": 1761,
-    "timeDay": 1963,
-    "timeWeek": 2113,
-    "timeMonth": 1855,
+    "timeDay": 1948,
+    "timeWeek": 2091,
+    "timeMonth": 1857,
     "timeYear": 1761,
     "dailyMinutesDown": {
-      "2023-11-01": 0
+      "2023-11-01": 21
     }
   }
 ]
