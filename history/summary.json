@@ -14,7 +14,7 @@
     "timeDay": 236,
     "timeWeek": 229,
     "timeMonth": 235,
-    "timeYear": 277,
+    "timeYear": 276,
     "dailyMinutesDown": {}
   },
   {
@@ -32,7 +32,7 @@
     "timeDay": 6939,
     "timeWeek": 5934,
     "timeMonth": 6438,
-    "timeYear": 5762,
+    "timeYear": 5773,
     "dailyMinutesDown": {}
   },
   {
@@ -40,18 +40,19 @@
     "url": "https://www.eu4cn.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.eu4cn.com.ico",
     "slug": "eu4cn",
-    "status": "up",
-    "uptime": "92.00%",
-    "uptimeDay": "88.17%",
-    "uptimeWeek": "96.83%",
+    "status": "down",
+    "uptime": "92.34%",
+    "uptimeDay": "99.99%",
+    "uptimeWeek": "96.88%",
     "uptimeMonth": "90.52%",
-    "uptimeYear": "92.00%",
+    "uptimeYear": "92.32%",
     "time": 2810,
-    "timeDay": 4589,
-    "timeWeek": 4052,
+    "timeDay": 3008,
+    "timeWeek": 4164,
     "timeMonth": 4602,
-    "timeYear": 2810,
+    "timeYear": 2812,
     "dailyMinutesDown": {
+      "2023-12-16": 0,
       "2023-12-15": 235,
       "2023-12-14": 79,
       "2023-12-09": 70,
@@ -170,9 +171,7 @@
       "2023-01-25": 1440,
       "2023-01-24": 661,
       "2023-01-20": 859,
-      "2023-01-19": 579,
-      "2023-01-15": 1016,
-      "2023-01-14": 625
+      "2023-01-19": 579
     }
   },
   {
@@ -181,16 +180,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/download.fastgit.org.ico",
     "slug": "fast-git",
     "status": "up",
-    "uptime": "55.41%",
+    "uptime": "55.52%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "49.15%",
-    "uptimeMonth": "12.69%",
-    "uptimeYear": "55.41%",
+    "uptimeWeek": "62.32%",
+    "uptimeMonth": "15.72%",
+    "uptimeYear": "55.43%",
     "time": 605,
     "timeDay": 535,
     "timeWeek": 627,
     "timeMonth": 627,
-    "timeYear": 605,
+    "timeYear": 606,
     "dailyMinutesDown": {
       "2023-12-12": 870,
       "2023-12-11": 1440,
@@ -396,7 +395,7 @@
     "time": 1745,
     "timeDay": 921,
     "timeWeek": 1641,
-    "timeMonth": 1589,
+    "timeMonth": 1613,
     "timeYear": 1745,
     "dailyMinutesDown": {
       "2023-11-01": 21
