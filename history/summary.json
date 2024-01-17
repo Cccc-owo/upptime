@@ -6,17 +6,17 @@
     "slug": "my-blog",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.33%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 276,
-    "timeDay": 381,
-    "timeWeek": 228,
+    "timeDay": 307,
+    "timeWeek": 237,
     "timeMonth": 260,
     "timeYear": 268,
     "dailyMinutesDown": {
-      "2024-01-17": 0
+      "2024-01-17": 10
     }
   },
   {
@@ -24,19 +24,19 @@
     "url": "https://drive.iscccc.eu.org",
     "icon": "https://icons.duckduckgo.com/ip3/drive.iscccc.eu.org.ico",
     "slug": "one-drive",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.33%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
-    "time": 5745,
-    "timeDay": 3457,
-    "timeWeek": 5252,
-    "timeMonth": 5677,
-    "timeYear": 5886,
+    "time": 5733,
+    "timeDay": 2571,
+    "timeWeek": 4757,
+    "timeMonth": 5529,
+    "timeYear": 5872,
     "dailyMinutesDown": {
-      "2024-01-17": 0
+      "2024-01-17": 10
     }
   },
   {
@@ -46,7 +46,7 @@
     "slug": "eu4cn",
     "status": "up",
     "uptime": "93.43%",
-    "uptimeDay": "68.08%",
+    "uptimeDay": "68.75%",
     "uptimeWeek": "82.70%",
     "uptimeMonth": "86.44%",
     "uptimeYear": "92.85%",
@@ -196,7 +196,7 @@
     "timeMonth": 615,
     "timeYear": 720,
     "dailyMinutesDown": {
-      "2024-01-17": 1302,
+      "2024-01-17": 1312,
       "2024-01-16": 1440,
       "2024-01-15": 1440,
       "2024-01-14": 1440,
