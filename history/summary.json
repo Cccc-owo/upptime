@@ -22,10 +22,10 @@
     "url": "https://www.eu4cn.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.eu4cn.com.ico",
     "slug": "eu4cn",
-    "status": "up",
-    "uptime": "94.79%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "94.35%",
+    "status": "down",
+    "uptime": "94.80%",
+    "uptimeDay": "99.98%",
+    "uptimeWeek": "94.34%",
     "uptimeMonth": "96.67%",
     "uptimeYear": "93.33%",
     "time": 3124,
@@ -34,6 +34,7 @@
     "timeMonth": 4068,
     "timeYear": 3397,
     "dailyMinutesDown": {
+      "2024-03-28": 0,
       "2024-03-25": 269,
       "2024-03-24": 300,
       "2024-03-16": 387,
@@ -155,8 +156,7 @@
       "2023-05-30": 324,
       "2023-05-29": 48,
       "2023-05-28": 406,
-      "2023-05-27": 392,
-      "2023-05-24": 24
+      "2023-05-27": 392
     }
   },
   {
@@ -165,10 +165,10 @@
     "icon": "https://icons.duckduckgo.com/ip3/download.fastgit.org.ico",
     "slug": "fast-git",
     "status": "up",
-    "uptime": "43.87%",
+    "uptime": "43.91%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "22.06%",
-    "uptimeMonth": "9.74%",
+    "uptimeWeek": "27.71%",
+    "uptimeMonth": "11.04%",
     "uptimeYear": "28.06%",
     "time": 735,
     "timeDay": 868,
