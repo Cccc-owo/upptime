@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 297,
-    "timeDay": 334,
-    "timeWeek": 297,
-    "timeMonth": 297,
-    "timeYear": 297,
+    "time": 266,
+    "timeDay": 174,
+    "timeWeek": 266,
+    "timeMonth": 266,
+    "timeYear": 266,
     "dailyMinutesDown": {}
   },
   {
@@ -23,18 +23,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.eu4cn.com.ico",
     "slug": "eu4cn",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "82.39%",
+    "uptimeDay": "70.19%",
+    "uptimeWeek": "82.39%",
+    "uptimeMonth": "82.39%",
+    "uptimeYear": "82.39%",
     "time": 4704,
-    "timeDay": 3677,
+    "timeDay": 0,
     "timeWeek": 4704,
     "timeMonth": 4704,
     "timeYear": 4704,
     "dailyMinutesDown": {
-      "2024-05-01": 0
+      "2024-05-02": 26,
+      "2024-05-01": 404
     }
   },
   {
@@ -48,11 +49,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1065,
-    "timeDay": 1151,
-    "timeWeek": 1065,
-    "timeMonth": 1065,
-    "timeYear": 1065,
+    "time": 1091,
+    "timeDay": 1171,
+    "timeWeek": 1091,
+    "timeMonth": 1091,
+    "timeYear": 1091,
     "dailyMinutesDown": {}
   },
   {
@@ -66,11 +67,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1591,
-    "timeDay": 1826,
-    "timeWeek": 1591,
-    "timeMonth": 1591,
-    "timeYear": 1591,
+    "time": 1689,
+    "timeDay": 1983,
+    "timeWeek": 1689,
+    "timeMonth": 1689,
+    "timeYear": 1689,
     "dailyMinutesDown": {}
   }
 ]
