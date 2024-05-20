@@ -23,11 +23,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.eu4cn.com.ico",
     "slug": "eu4cn",
     "status": "up",
-    "uptime": "92.83%",
+    "uptime": "92.87%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "96.00%",
-    "uptimeMonth": "92.83%",
-    "uptimeYear": "92.83%",
+    "uptimeMonth": "92.87%",
+    "uptimeYear": "92.87%",
     "time": 4935,
     "timeDay": 3431,
     "timeWeek": 5103,
@@ -70,17 +70,19 @@
     "url": "http://52pcgame.net/",
     "icon": "https://icons.duckduckgo.com/ip3/52pcgame.net.ico",
     "slug": "52pcgame",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1810,
-    "timeDay": 2237,
-    "timeWeek": 1895,
-    "timeMonth": 1810,
-    "timeYear": 1810,
-    "dailyMinutesDown": {}
+    "time": 1818,
+    "timeDay": 2119,
+    "timeWeek": 1908,
+    "timeMonth": 1818,
+    "timeYear": 1818,
+    "dailyMinutesDown": {
+      "2024-05-20": 0
+    }
   }
 ]
