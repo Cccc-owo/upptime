@@ -22,14 +22,14 @@
     "url": "https://www.eu4cn.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.eu4cn.com.ico",
     "slug": "eu4cn",
-    "status": "up",
-    "uptime": "91.77%",
-    "uptimeDay": "71.12%",
-    "uptimeWeek": "51.42%",
+    "status": "down",
+    "uptime": "91.80%",
+    "uptimeDay": "74.15%",
+    "uptimeWeek": "51.41%",
     "uptimeMonth": "73.61%",
-    "uptimeYear": "91.77%",
+    "uptimeYear": "91.80%",
     "time": 11344,
-    "timeDay": 25085,
+    "timeDay": 25461,
     "timeWeek": 17448,
     "timeMonth": 11941,
     "timeYear": 11344,
@@ -86,9 +86,7 @@
       "2024-07-01": 379,
       "2024-06-30": 659,
       "2024-06-29": 235,
-      "2024-06-24": 166,
-      "2024-06-22": 43,
-      "2024-06-21": 17
+      "2024-06-24": 166
     }
   },
   {
