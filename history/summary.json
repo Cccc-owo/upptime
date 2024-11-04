@@ -4,18 +4,20 @@
     "url": "https://blog.iscccc.eu.org",
     "icon": "https://icons.duckduckgo.com/ip3/blog.iscccc.eu.org.ico",
     "slug": "my-blog",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 514,
-    "timeDay": 266,
-    "timeWeek": 335,
-    "timeMonth": 353,
-    "timeYear": 514,
-    "dailyMinutesDown": {}
+    "time": 553,
+    "timeDay": 4133,
+    "timeWeek": 1293,
+    "timeMonth": 592,
+    "timeYear": 553,
+    "dailyMinutesDown": {
+      "2024-11-04": 0
+    }
   },
   {
     "name": "欧陆风云四百科（eu4cn）",
@@ -23,18 +25,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.eu4cn.com.ico",
     "slug": "eu4cn",
     "status": "up",
-    "uptime": "87.80%",
-    "uptimeDay": "99.43%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "54.05%",
-    "uptimeYear": "87.80%",
+    "uptime": "87.81%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "54.29%",
+    "uptimeYear": "87.81%",
     "time": 12213,
     "timeDay": 2998,
     "timeWeek": 4091,
-    "timeMonth": 13923,
+    "timeMonth": 13807,
     "timeYear": 12213,
     "dailyMinutesDown": {
-      "2024-11-04": 8,
       "2024-10-22": 1161,
       "2024-10-21": 1440,
       "2024-10-20": 1440,
@@ -81,7 +82,7 @@
       "2024-09-01": 41,
       "2024-08-31": 267,
       "2024-08-30": 61,
-      "2024-08-28": 18
+      "2024-08-28": 47
     }
   },
   {
