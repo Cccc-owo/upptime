@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 530,
-    "timeDay": 234,
-    "timeWeek": 319,
-    "timeMonth": 364,
-    "timeYear": 530,
+    "time": 529,
+    "timeDay": 332,
+    "timeWeek": 337,
+    "timeMonth": 363,
+    "timeYear": 529,
     "dailyMinutesDown": {
       "2024-11-04": 19
     }
@@ -26,17 +26,16 @@
     "slug": "eu4cn",
     "status": "up",
     "uptime": "90.87%",
-    "uptimeDay": "99.11%",
-    "uptimeWeek": "99.87%",
-    "uptimeMonth": "99.65%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.68%",
     "uptimeYear": "90.87%",
-    "time": 11719,
-    "timeDay": 13347,
-    "timeWeek": 7986,
-    "timeMonth": 6078,
-    "timeYear": 11719,
+    "time": 11709,
+    "timeDay": 12605,
+    "timeWeek": 8216,
+    "timeMonth": 6086,
+    "timeYear": 11709,
     "dailyMinutesDown": {
-      "2025-01-05": 13,
       "2024-12-17": 139,
       "2024-11-28": 42,
       "2024-11-14": 18,
@@ -84,7 +83,8 @@
       "2024-09-07": 464,
       "2024-09-06": 287,
       "2024-09-05": 852,
-      "2024-09-04": 16
+      "2024-09-04": 16,
+      "2024-09-03": 28
     }
   },
   {
@@ -99,9 +99,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.69%",
     "time": 1189,
-    "timeDay": 1505,
-    "timeWeek": 1218,
-    "timeMonth": 1230,
+    "timeDay": 1136,
+    "timeWeek": 1193,
+    "timeMonth": 1225,
     "timeYear": 1189,
     "dailyMinutesDown": {
       "2024-12-03": 24,
@@ -125,11 +125,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1870,
-    "timeDay": 2096,
-    "timeWeek": 2020,
-    "timeMonth": 1925,
-    "timeYear": 1870,
+    "time": 1871,
+    "timeDay": 2083,
+    "timeWeek": 2030,
+    "timeMonth": 1929,
+    "timeYear": 1871,
     "dailyMinutesDown": {}
   }
 ]
